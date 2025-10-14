@@ -1,0 +1,49 @@
+Descripción del Conjunto de Datos: Global Superstore
+
+Contexto:
+
+El conjunto de datos Global Superstore recopila información sobre pedidos realizados a través de una tienda en línea global, en el periodo comprendido entre el 1 de enero de 2011 y el 31 de diciembre de 2014. La necesidad actual de comprar online, acentuada en parte por situaciones como la pandemia de COVID, ha llevado a analizar distintos aspectos tanto del comportamiento de los clientes como del desempeño de los productos.
+
+Descripción de las Características (Columnas):
+
+- Row ID: Identificador único para cada registro en la base de datos.
+
+- Order ID: Identificador único asignado a cada pedido.
+
+- Order Date: Fecha en la que se realizó el pedido.
+
+- Ship Date: Fecha en la que el pedido fue enviado.
+
+- Ship Mode: Modalidad de envío utilizada para el pedido (por ejemplo: First Class, Second Class, etc.).
+
+- Customer ID: Identificador único asignado a cada cliente.
+
+- Customer Name: Nombre del cliente que realizó el pedido.
+
+- Segment: Segmento al que pertenece el cliente (por ejemplo: Consumer, Corporate, Home Office).
+
+- Country: País de origen o destino del pedido.
+
+- City: Ciudad asociada al pedido o lugar de entrega.
+
+- State: Estado o provincia relacionada con el pedido.
+
+- Postal Code: Código postal del área de entrega. Nota: Puede presentar valores faltantes y, de ser necesario, puede ser descartada del análisis.
+
+- Region: Región geográfica a la que pertenece el pedido (por ejemplo: East, West, Central, South).
+
+- Product ID: Identificador único del producto.
+
+- Category: Categoría principal del producto.
+
+- Sub-Category: Subcategoría a la que pertenece el producto.
+
+- Product Name: Nombre o descripción del producto.
+
+- Sales: Importe monetario de las ventas correspondientes al pedido.
+
+- Quantity: Número de unidades del producto vendidas en el pedido.
+
+- Discount: Descuento aplicado sobre el precio de venta.
+
+- Profit: Ganancia obtenida por el pedido, tras descontar los costos.
